@@ -79,6 +79,14 @@ Observabilidade:
 
 * Plataforma na cloud a sua escolha
 
+## Entrega
+Repositórios associados (Github)
+URL em ambiente Cloud, com funcionalidades implementadas
+
+## Avaliação
+Notas de 0 a 100
+De 0 a 50 pontos para completude(e correto funcionamento das funcionalidades)
+De 0 a 50 para analise de requisitos não funcionais e organização de código aplicados.
 
 ## 🛠 Tecnologias
 - Java 11
