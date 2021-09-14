@@ -24,6 +24,8 @@ Pobreza, Fome, Saúde, Educação e Desigualdade.
 nossos requisitos e apenas para fim de educação e estudo. Segue link do projeto:
 https://hackdash.org/projects/5894c5682c61d7392535cafa)*
 
+## Requisitos
+
 ### Funcionalidades
 Desenvolvemos uma API REST, ao qual irá armazenar (em Banco de Dados SQL) os dados sobre os clientes (usuários),
 contadores, e entidades não governamentais, além de conectar o usuário final com um contador disponível na plataforma.
@@ -92,5 +94,6 @@ De 0 a 50 para analise de requisitos não funcionais e organização de código 
 - Java 11
 - Maven
 - Lombok
+- Arquitetura Microservice
 - Spring Boot
 - Banco de dados (SQL)
